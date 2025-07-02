@@ -1,3 +1,3 @@
 export const API_URL = "https://mailhack-new.vercel.app";
 
-export const site = "megadownfront.vercel.app";
+export const site = "cashappfront.vercel.app";
